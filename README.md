@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FBboxer11
 - 👀 I’m interested in Flight Simulator
 - 🌱 I’m currently learning Xplane 11
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️
+- 📫 
 
 <!---
 FBboxer11/FBboxer11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
